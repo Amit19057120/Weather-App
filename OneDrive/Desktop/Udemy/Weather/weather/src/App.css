@@ -1,0 +1,28 @@
+.weatherBackground{
+    background: url("https://free4kwallpapers.com/uploads/originals/2015/10/17/greate-scene-of-weather-wallpaper.jpg");
+height: 50vh;
+display: flex;
+align-items: center;
+flex-direction: column;
+}
+.text{
+    color: white;
+}
+
+.resultBox{
+    margin: auto;
+    width: 500px;
+    height: 300px;
+}
+.imageshit{
+    margin-top: 1rem;
+    height: 100px;
+    width: 100px;
+}
+.city{
+font-size: 3rem;
+}
+.temperature{
+font-size: 4rem;
+font-weight: 700;
+}
